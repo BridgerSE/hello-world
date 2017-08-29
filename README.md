@@ -1,2 +1,4 @@
 # hello-world
-Reposutory
+#include<iostream>
+
+std::cout<<"hello,word,hello,github"<<std::endl;
